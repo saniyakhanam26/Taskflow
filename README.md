@@ -1,1 +1,2 @@
 # Taskflow
+TaskFlow – MERN Task Manager is a full-stack task management application built using MongoDB, Express.js, React.js, and Node.js. It provides secure JWT authentication, task creation and management, drag-and-drop Kanban boards, search/filtering, reminders, and dashboard analytics. The application also includes responsive UI, dark/light mode, pagination, and real-time task progress visualization for an efficient productivity experience.
